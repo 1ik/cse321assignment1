@@ -1,3 +1,3 @@
 CSE 320 Assignment 1
 
-single threaded and multi threaded client and echo server implementation.
+single threaded and multi threaded echo server and client implementation.
